@@ -1,0 +1,17 @@
+,num
+conv1_1,64
+conv1_2,64
+conv2_1,128
+conv2_2,128
+conv3_1,256
+conv3_2,256
+conv3_3,256
+conv4_1,512
+conv4_2,512
+conv4_3,512
+conv5_1,512
+conv5_2,512
+conv5_3,512
+fc6,4096
+fc7,4096
+fc8,1000
